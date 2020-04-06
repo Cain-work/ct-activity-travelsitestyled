@@ -3,7 +3,12 @@ Set the box sizing for every element on the page
 to border-box. This will ensure that elements have padding and 
 border included in the element's total width and height.
 */
+body {
+  background-color: black;
+  color: white;
+  font: 16px helvetica;
 
+}
 
 /*
 Target the body element and set some common styles for the page:
